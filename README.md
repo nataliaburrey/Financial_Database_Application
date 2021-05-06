@@ -1,2 +1,2 @@
-# Financial_Database_Application
-Challenge_7
+# Financial Application with Databases
+ETF Analyzer

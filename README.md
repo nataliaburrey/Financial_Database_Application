@@ -1,3 +1,6 @@
+[
+<img width="1129" alt="Screen Shot 2021-05-08 at 10 41 13 AM" src="https://user-images.githubusercontent.com/80833988/117548455-f9e97700-afe9-11eb-893c-4ed696bc102f.png">
+](url)
 
 # SQL Financial Application
 ## Using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
@@ -18,18 +21,21 @@
 
 ## Introduction
 
-In this Challenge I created a Jupyter notebook with 
+In this Challenge I created a Jupyter notebook with analysis of the ETF data that a SQL database stores. Different data manipulations, like SELECTing data into the separate dataframe, JOINing different tables withing a database, slising data with ORDER and LIMIT function for the purpose of financial analyses.
 
-You can find my analysis, including the answers to the questions from the Challenge instructions in etf_analyzer.ipynb file. For each line of code there is comments, titles for interactive hvplot, necessary professionally styled visualizations are included. 
+You can find my report, including the answers to the questions from the Challenge instructions in etf_analyzer.ipynb file. For each line of code there is comments.  Necessary titles for professionally styled interactive hvplot visualizations are included. 
 
-Voilà library were used to deploy the visualizations to a web application. Here is the video demonstrating deployment of the library via terminal and brief interaction with it on web.
+Voilà library were used to deploy the visualizations to a web application. 
+Here is the video demonstrating deployment of the library via terminal and brief interaction with it on web.
 
 
 ## Why?
 
+[
+<img width="792" alt="Screen Shot 2021-05-08 at 10 35 54 AM" src="https://user-images.githubusercontent.com/80833988/117548325-39639380-afe9-11eb-85d4-e48188f03f50.png">
+](url)
 
-
-
+(https://courses.bootcampspot.com/courses/740/assignments/10690?module_item_id=168908)
 
 ## How to install
 
@@ -55,10 +61,40 @@ jupyter lab
 
 
 
-## How to use
+## How to use Voila
+
+Following screenshots and videos of the web application, created by deploying your Jupyter notebook via the Voilà library
+
+To deploy Voilà library via terminal type in code:
 
 
+```
+conda activate dev
+cd <relative-path-to-notebook>
+voila <notebook_name>
 
+```
+
+
+[
+<img width="705" alt="Screen Shot 2021-05-08 at 10 52 32 AM" src="https://user-images.githubusercontent.com/80833988/117548809-d3c4d680-afeb-11eb-9474-352ea917472e.png">
+](url)
+
+The file will be opened into default WEB browser
+
+[
+
+https://user-images.githubusercontent.com/80833988/117549147-8b0e1d00-afed-11eb-8cf9-645af93aa7f9.mov
+
+](url)
+
+Following video demonstrates Interactive Visualisations via hvplot 
+
+[
+
+https://user-images.githubusercontent.com/80833988/117549047-218e0e80-afed-11eb-8801-e31d702cae9b.mov
+
+](url)
 
 ## Technologies used
 
@@ -82,12 +118,6 @@ In particular, Pandas offers data structures and operations for manipulating num
 Original author(s): Wes McKinney. . 
 License: New BSD License
 "
-
-Following code deploys Voilà library via terminal.
-
-```
-voila <relative-path-to-notebook>
-```
 
 
 ### Languages 

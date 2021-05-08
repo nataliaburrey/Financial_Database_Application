@@ -21,7 +21,7 @@
 
 ## Introduction
 
-In this Challenge I created a Jupyter notebook with analysis of the ETF data that a SQL database stores. Different data manipulations, like SELECTing data into the separate dataframe, JOINing different tables withing a database, slising data with ORDER and LIMIT function for the purpose of financial analyses.
+In this Challenge I created a Jupyter notebook with analysis of the ETF data that a SQL database stores. Different data manipulations, like SELECTing data into the separate dataframe, JOINing different tables within a database, slicing data with ORDER and LIMIT function for the purpose of financial analyses.
 
 You can find my report, including the answers to the questions from the Challenge instructions in etf_analyzer.ipynb file. For each line of code there is comments.  Necessary titles for professionally styled interactive hvplot visualizations are included. 
 
@@ -31,9 +31,11 @@ Here is the video demonstrating deployment of the library via terminal and brief
 
 ## Why?
 
+
 [
 <img width="792" alt="Screen Shot 2021-05-08 at 10 35 54 AM" src="https://user-images.githubusercontent.com/80833988/117548325-39639380-afe9-11eb-85d4-e48188f03f50.png">
 ](url)
+
 
 (https://courses.bootcampspot.com/courses/740/assignments/10690?module_item_id=168908)
 
@@ -80,7 +82,11 @@ voila <notebook_name>
 <img width="705" alt="Screen Shot 2021-05-08 at 10 52 32 AM" src="https://user-images.githubusercontent.com/80833988/117548809-d3c4d680-afeb-11eb-9474-352ea917472e.png">
 ](url)
 
+
+
+
 The file will be opened into default WEB browser
+
 
 
 
@@ -90,7 +96,12 @@ https://user-images.githubusercontent.com/80833988/117549147-8b0e1d00-afed-11eb-
 
 
 
+
+
 Following video demonstrates Interactive Visualisations via hvplot 
+
+
+
 
 
 

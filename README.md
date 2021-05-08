@@ -82,19 +82,25 @@ voila <notebook_name>
 
 The file will be opened into default WEB browser
 
-[
+
 
 https://user-images.githubusercontent.com/80833988/117549147-8b0e1d00-afed-11eb-8cf9-645af93aa7f9.mov
 
-](url)
+
+
+
 
 Following video demonstrates Interactive Visualisations via hvplot 
 
-[
+
+
+
 
 https://user-images.githubusercontent.com/80833988/117549047-218e0e80-afed-11eb-8801-e31d702cae9b.mov
 
-](url)
+
+
+
 
 ## Technologies used
 
